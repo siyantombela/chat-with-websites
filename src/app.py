@@ -8,7 +8,7 @@ from vector_store import get_vector_store_from_url
 
 # app configuration
 streamlit.set_page_config(page_title="Chat with Websites", page_icon=" 🤖")
-streamlit.title("What with Websites")
+streamlit.title("Chat with Websites")
 
 # sidebar
 with streamlit.sidebar:
